@@ -1,8 +1,8 @@
 
 
-Hey there 👋,
+Hello there 👋
 
-I create blog posts and open source packages mainly about python and data engineering. 
+I create blog posts and open source packages mainly about Java and data engineering. 
 I have a passion for learning and sharing my knowledge with others a public as possible. 
 You can see a full list of what I am up to on 👉 https://medium.com/me/lists
 If you found value in something I have created, please feel free to send a tip, 👉 solnamgoong0103@gmail.com
