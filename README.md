@@ -16,18 +16,6 @@ You can see a full list of what I am up to on 👉 https://medium.com/@nandaras0
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=solnamgung&amp;layout=compact&amp;exclude_lang=java+r&amp;theme=vue-dark">
 </a>
 </p>
- 
- 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=solnamgung=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://streak-stats.demolab.com/?user=solnamgung&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% /></a>
-  
-  [![Sol's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=solnamgung&theme=material-palenight)](https://github.com/solnamgung/github-readme-activity-graph)
-  
-  <!--![KyungHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=solnamgung&theme=gruvbox_light&show_icons=true)-->
-   
-
 
 
 <h3 id="--tech-stack" style="position:relative;"><a href="#--tech-stack" aria-label="  tech stack permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>🛠 &nbsp;Tech Stack</h3>
