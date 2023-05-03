@@ -3,9 +3,9 @@
 <h3>Hello 👋<h3>
 
 I create blog posts and open source packages mainly about Java, Javascript and data engineering. 💻  <br>
-I have a passion for learning and sharing my knowledge with others as much as possible. <br>
-You can see a full list of what I am up to on 👉 https://medium.com/@nandaras0103/lists <br>
- 🌹 If you find value in something I have created, please feel free to send a tip, <br>
+I have a passion for learning and sharing my knowledge with others as much as possible.<br>
+You can see a full list of what I am up to on 👉 https://medium.com/@nandaras0103/lists<br>
+ 🌹 If you find value in something I have created, please feel free to send a tip,<br>
  👉 solnamgoong0103@gmail.com
 
 
