@@ -1,6 +1,12 @@
 <a href="https://github.com/solnamgung"><img src="https://camo.githubusercontent.com/3d30f267f0f20f873ac3fe15cc88ebd7fcfae78c82c1e3a89483d2c470a6a018/68747470733a2f2f686974732e736565796f756661726d2e636f6d2f6170692f636f756e742f696e63722f62616467652e7376673f75726c3d68747470732533412532462532466769746875622e636f6d253246676d61726f6269616e612532466869742d636f756e74657226636f756e745f62673d253233464639434231267469746c655f62673d2532333431363036432669636f6e3d2669636f6e5f636f6c6f723d253233453745374537267469746c653d6869747326656467655f666c61743d66616c7365" alt="Hits" data-canonical-src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmarobiana%2Fhit-counter&amp;count_bg=%23FF9CB1&amp;title_bg=%2341606C&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=hits&amp;edge_flat=false" style="max-width: 100%;"></a>
 
-<h3>Hello 👋<h3>
+🌐 Multicultural Roots | 💇‍♂️ Decade of Hair Design | 💻 Transitioned to Tech | 🧑‍💻 Backend Developer | 🌟 Lifelong Learner
+
+I am a backend developer specializing in Java, Spring Framework, and Oracle databases, with a journey that spans continents and industries. Before code lines, there were hairlines; for ten remarkable years, I styled and shaped experiences as a hair designer in the vibrant cities of Singapore, Australia, and South Korea. Those years were more than just about creating aesthetic transformations—they were a masterclass in communication, cultural fluency, and client-centric service.
+
+Transitioning into software development was a leap—both exhilarating and challenging. With over a year of experience now as a developer, I bring the same dedication to understanding client needs and problem-solving that I did with scissors in hand. My approach to development is deeply human-centric, ensuring that every line of code not only meets specifications but also enhances the user's interaction with the software.
+
+I thrive on collaboration, working alongside diverse teams to push towards common goals and relentless improvement. The transition from hairstylist to backend developer might seem vast, but it is the thread of continuous learning and growth that ties my story together.
 
 I create blog posts and open source packages mainly about Java, Javascript and data engineering. 💻  <br>
 I have a passion for learning and sharing my knowledge with others as much as possible.<br>
