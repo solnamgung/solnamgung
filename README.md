@@ -1,6 +1,6 @@
 
 
-🌐 Multicultural Roots | 💻 Transitioned to Tech | 🧑‍💻 Backend Developer | 🌟 Lifelong Learner
+🌐 Multicultural Roots | Dacade of Hair Design | 💻 Transitioned to Tech | 🧑‍💻 Backend & Data engineer | 🌟 Lifelong Learner
 
 I am a backend developer specializing in Java, Spring Framework, and Oracle databases, with a journey that spans continents and industries. Before code lines, there were hairlines; for ten remarkable years, I styled and shaped experiences as a hair designer in the vibrant cities of Singapore, Australia, and South Korea. Those years were more than just about creating aesthetic transformations—they were a masterclass in communication, cultural fluency, and client-centric service.
 
