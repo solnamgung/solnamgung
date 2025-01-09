@@ -1,11 +1,10 @@
 
-🌟 Lifelong Learner | 🧑‍💻 Backend & Data Engineer | 🌐 From Multicultural Roots to Tech Innovator
+🌟 Lifelong Learner | 🧑‍💻 Backend & Data Engineer | 🌐 Diverse Tech Innovator
 
-I am a skilled backend and data engineer with expertise in Java, Spring Framework, and Oracle databases. My journey in the tech industry is marked by a unique transition from a decade of creative expression as a hair designer across Singapore, Australia, and South Korea, to the dynamic world of software development. This path has not only honed my technical skills but also imbued me with an exceptional understanding of cultural diversity, communication, and client-centric approaches to service.
-
-With over a year of experience in software development, I leverage my rich background to offer solutions that are not just technically robust but are also designed with a deep understanding of user needs and preferences. My approach to engineering is human-centric, ensuring that every project I undertake improves the user experience and meets the highest standards of quality and innovation.
-
-I excel in collaborative environments, working synergistically with teams from varied backgrounds towards shared goals and continuous improvement. Though my career has evolved from hairstyling to coding, the essence of my journey lies in a relentless pursuit of learning and growth. I am committed to using my diverse experiences to contribute to the development of cutting-edge software and data solutions that address real-world problems and enhance people's lives.
+A backend engineer with expertise in Java, Spring, and Oracle DB. 
+I am dedicated to creating innovative, user-centric solutions that meet high standards of quality and performance. 
+Thriving in collaborative environments, I work effectively with diverse teams to achieve shared goals and drive continuous improvement. 
+Passionate about learning and growth, I strive to develop cutting-edge software and data solutions that address real-world challenges.
 
 
 <h3 id="️--github-analytics" style="position:relative;"><a href="#%EF%B8%8F--github-analytics" aria-label="️  github analytics permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>⚙️ &nbsp;GitHub Analytics</h3>
